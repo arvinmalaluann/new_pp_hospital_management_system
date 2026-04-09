@@ -78,6 +78,11 @@ This project goes beyond basic PowerApps by applying structured logic and perfor
 
 ---
 
+## 🙌 Special Thanks
+- **powericons.dev** — a great tool for enhancing UI with clean and consistent icons
+
+---
+
 ## 📷 Additional Screens
 ![Project Thumbnail](./assets/home.png)
 ![Project Thumbnail](./assets/earnings.png)
