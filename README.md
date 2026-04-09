@@ -79,7 +79,8 @@ This project goes beyond basic PowerApps by applying structured logic and perfor
 ---
 
 ## 🙌 Special Thanks
-- **powericons.dev** — a great tool for enhancing UI with clean and consistent icons
+- **[powericons.dev](https://www.powericons.dev)** — a great tool for enhancing UI with clean and consistent icons
+- **[quickchart.io](https://quickchart.io/)** — a great tool for enhancing UI with easy to use and integrate charts
 
 ---
 
